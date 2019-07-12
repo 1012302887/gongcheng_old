@@ -40,7 +40,7 @@ void Put_Out_Init(void)
 //	HAL_GPIO_WritePin(GPIOA,GPIO_PIN_2,GPIO_PIN_RESET);  //右移     PA2
 //	HAL_GPIO_WritePin(GPIOA,GPIO_PIN_3,GPIO_PIN_RESET);  //二级伸缩 PA3
 	
-	//红外对管初始化
+//	红外对管初始化
 //  GPIO_Initure.Pin=GPIO_PIN_1 | GPIO_PIN_0;    //PE1 PE0
 //	GPIO_Initure.Mode=GPIO_MODE_INPUT;      		 
 //	GPIO_Initure.Pull=GPIO_PULLDOWN;       			 
